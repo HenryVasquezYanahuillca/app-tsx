@@ -5,6 +5,30 @@
       "name": "henry vasquez yanahuillca",
       "email":"henryvyh@gmail.com",
       "status":true
+    },
+    {
+      "id": 2,
+      "name": "juanita peres peres",
+      "email":"juanita@gmail.com",
+      "status":false
+    },
+    {
+      "id": 3,
+      "name": "juanito peres peres",
+      "email":"juanito@gmail.com",
+      "status":true
+    },
+    {
+      "id": 4,
+      "name": "mery brown merry",
+      "email":"mery@gmail.com",
+      "status":true
+    },
+    {
+      "id": 5,
+      "name": "diana montes rios",
+      "email":"dianam@gmail.com",
+      "status":true
     }
   ]
 }
