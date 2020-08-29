@@ -1,8 +1,10 @@
 {
-"posts": [
+"users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "henry vasquez yanahuillca",
+      "email":"henryvyh@gmail.com",
+      "status":true
     }
   ]
 }
