@@ -75,6 +75,13 @@
     "price":380.5,
     "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
      "description":"desc psost 2"
+    },
+        {
+    "id":3,
+    "title":"free fire",
+    "price":80.5,
+    "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
+    "description":"desc psost 3"
     }
       ]
 }
