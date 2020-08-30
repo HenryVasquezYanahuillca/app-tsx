@@ -16,7 +16,16 @@
       "id": 3,
       "name": "juanito peres peres",
       "email":"juanito@gmail.com",
-      "status":true
+      "status":true,
+      "games":[
+          {
+           "id":1,
+           "title":"full guys",
+           "price":34.5,
+           "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
+           "description":"desc psost 1"
+          }
+      ]
     },
     {
       "id": 4,
