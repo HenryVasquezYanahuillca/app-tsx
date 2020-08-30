@@ -30,5 +30,11 @@
       "email":"dianam@gmail.com",
       "status":true
     }
-  ]
+  ],
+"posts":[
+    "id":1,
+    "title":"full guys",
+    "price":34.5,
+    "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png"
+]
 }
