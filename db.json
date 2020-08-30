@@ -16,16 +16,7 @@
       "id": 3,
       "name": "juanito peres peres",
       "email":"juanito@gmail.com",
-      "status":true,
-      "games":[
-          {
-           "id":1,
-           "title":"full guys",
-           "price":34.5,
-           "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
-           "description":"desc psost 1"
-          }
-      ]
+      "status":true      
     },
     {
       "id": 4,
@@ -69,5 +60,21 @@
     "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
     "description":"desc psost 4"
     }
-   ]
+   ],
+    "games_1":[
+          {
+           "id":1,
+           "title":"full guys",
+           "price":34.5,
+           "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
+           "description":"desc psost 1"
+          },
+        {
+    "id":2,
+    "title":"lol",
+    "price":380.5,
+    "photo":"http://www.unajma.edu.pe/sites/default/files/logo_unajma.png",
+     "description":"desc psost 2"
+    }
+      ]
 }
